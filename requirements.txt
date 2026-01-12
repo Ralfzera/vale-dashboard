@@ -3,5 +3,4 @@ pandas
 plotly
 openpyxl
 matplotlib
-math
-traceback
+
